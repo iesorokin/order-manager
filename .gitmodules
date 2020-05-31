@@ -1,3 +1,15 @@
 [submodule "orchestrator"]
 	path = orchestrator
 	url = git@github.com:iesorokin/om-orchestrator.git
+[submodule "parent"]
+	path = parent
+	url = git@github.com:iesorokin/om-parent.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:iesorokin/om-config-server.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:iesorokin/om-gateway.git
+[submodule "configs"]
+	path = configs
+	url = git@github.com:iesorokin/om-configs.git
