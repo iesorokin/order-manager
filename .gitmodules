@@ -1,15 +1,27 @@
+[submodule "banker"]
+	path = banker
+	url = git@github.com:iesorokin/om-banker.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:iesorokin/om-config-server.git
+[submodule "configs"]
+	path = configs
+	url = git@github.com:iesorokin/om-configs.git
+[submodule "courier"]
+	path = courier
+	url = git@github.com:iesorokin/om-courier.git
+[submodule "dispatcher"]
+	path = dispatcher
+	url = git@github.com:iesorokin/om-dispatcher.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:iesorokin/om-gateway.git
 [submodule "orchestrator"]
 	path = orchestrator
 	url = git@github.com:iesorokin/om-orchestrator.git
 [submodule "parent"]
 	path = parent
 	url = git@github.com:iesorokin/om-parent.git
-[submodule "config-server"]
-	path = config-server
-	url = git@github.com:iesorokin/om-config-server.git
-[submodule "gateway"]
-	path = gateway
-	url = git@github.com:iesorokin/om-gateway.git
-[submodule "configs"]
-	path = configs
-	url = git@github.com:iesorokin/om-configs.git
+[submodule "picker"]
+	path = picker
+	url = git@github.com:iesorokin/om-picker.git
