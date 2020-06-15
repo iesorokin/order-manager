@@ -20,7 +20,7 @@
 	path = orchestrator
 	url = git@github.com:iesorokin/om-orchestrator.git
 [submodule "parent"]
-	path = parent
+	path = om-parent
 	url = git@github.com:iesorokin/om-parent.git
 [submodule "om-picker"]
 	path = om-picker
