@@ -22,6 +22,6 @@
 [submodule "parent"]
 	path = parent
 	url = git@github.com:iesorokin/om-parent.git
-[submodule "picker"]
-	path = picker
+[submodule "om-picker"]
+	path = om-picker
 	url = git@github.com:iesorokin/om-picker.git
